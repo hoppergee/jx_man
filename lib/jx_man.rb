@@ -1,4 +1,5 @@
 require "jx_man/version"
+require 'jx_man/drawing'
 
 begin
   require 'pry'
